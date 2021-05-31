@@ -1,0 +1,5 @@
+{
+  "rpc": "https://ropsten.infura.io/v3/c3f322f1b2534c4dbaa13ff34d632be0",
+  "apiPrivKey": "0x7ddf538c8b7f9d77bbf3fa0f8811db281933b12152978d775346e0202ee363a7",
+  "apiPubKey": "0x943F586C1f08F7b62f460de97B55E5e43c716e58"
+}
